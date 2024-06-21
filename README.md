@@ -3,7 +3,7 @@
     <img src="./docs/header.gif" alt="Mario Kart" width="200">
 </div>
 
-![image](https://github.com/andrefods1993/dio.me_NodeJS_modulo_1/assets/132412680/6a05375d-56b6-42be-aead-7c337cc5125e){:width="200"}
+![image](https://github.com/andrefods1993/dio.me_NodeJS_modulo_1/assets/132412680/6a05375d-56b6-42be-aead-7c337cc5125e)
 
 
 ## 📎 Sumário
