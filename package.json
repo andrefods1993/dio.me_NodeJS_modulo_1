@@ -1,0 +1,13 @@
+{
+	"name": "mario-kart-project",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node --watch src/index.js"
+	},
+	"keywords": [],
+	"author": "André Filipe",
+	"license": "ISC",
+	"description": "Projeto em Node.js para simulação de corridas estilo Mario Kart, usando lógica de programação e manipulação de dados para determinar o vencedor com base em características dos personagens."
+}
