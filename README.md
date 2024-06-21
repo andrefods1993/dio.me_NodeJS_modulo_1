@@ -1,6 +1,9 @@
 <h1 align="center">Desafio de projeto: Mario Kart.JS</h1>
 <div align="center">
     <img src="./docs/header.gif" alt="Mario Kart" width="200">
+
+    ![image](https://github.com/andrefods1993/dio.me_NodeJS_modulo_1/assets/132412680/5e6fd68a-546d-45af-910c-d438a92a2555)
+
 </div>
 
 ## 📎 Sumário
